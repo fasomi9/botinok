@@ -4,7 +4,7 @@ import logging
 import sqlite3
 
 # Токен вашего бота
-BOT_TOKEN = ""
+BOT_TOKEN = "7532072705:AAG-ARMxVkTD1ebDkIEiLDfPrCroX2Un1J8 "
 
 # ID админов
 ADMIN_ID = 6399609937 # Замените на ваш ID!
