@@ -7,8 +7,8 @@ import sqlite3
 BOT_TOKEN = ""
 
 # ID админов
-ADMIN_ID =  # Замените на ваш ID!
-CO_ADMIN_ID =  # Замените на ID совладельца!
+ADMIN_ID = 6399609937 # Замените на ваш ID!
+CO_ADMIN_ID = 1286103232 # Замените на ID совладельца!
 
 # Список админов
 admins = [ADMIN_ID, CO_ADMIN_ID]
